@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Даты по истории</string>
+    <string name="no_internet">Нет подключения к интернету</string>
+    <string name="no_internet_title">Что-то пошло не так...</string>
+    <string name="no_internet_desc">Проверьте подключение к интернету и попробуйте снова</string>
+    <string name="retry">Повторить</string>
+</resources>
